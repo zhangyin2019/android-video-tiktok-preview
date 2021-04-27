@@ -1,7 +1,7 @@
 # android-image-weixin-preview
-仿抖音视频预览的封装，简单易用
+仿抖音视频预览的封装，上下翻页，简单易用
 
-Imitate Tiktok video preview, and it is easy to use
+Imitate Tiktok video preview, turn pages up and down and it is easy to use
 
 ### 效果如图：
 
